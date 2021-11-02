@@ -4,8 +4,11 @@
    margin-left: 110px;
     position:absolute;
     background-color: white;
-top:100px; 
-left: 300px;
-margin:5px;
+top:60px; 
+left: 390px;
+margin:50px;
 
+}
+h1, h2, p {
+    margin-left: 10px;
 }
